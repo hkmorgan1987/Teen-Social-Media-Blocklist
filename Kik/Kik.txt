@@ -1,0 +1,13 @@
+horizon.kninfederation.com
+kinfederation.com
+api.kinmarketplace.com
+kinmarketplace.com
+bi.kinecosystembi.com
+kinecosystembi.com
+home.kik.com
+engine.apikik.com
+api.kik.com
+kik.com
+profilepics.cf.kik.com
+ws.kik.com
+talk15250.an.kik.com
