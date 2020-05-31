@@ -38,6 +38,13 @@ etl.tindersparks.com
 api.ask.fm
 mobilestats.ask.fm
 ask.fm
+horizon.kninfederation.com
+kinfederation.com
+api.kinmarketplace.com
+kinmarketplace.com
+bi.kinecosystembi.com
+kinecosystembi.com
+^talk
 home.kik.com
 engine.apikik.com
 api.kik.com
