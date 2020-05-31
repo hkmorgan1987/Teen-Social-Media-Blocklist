@@ -23,7 +23,8 @@ newlbs.live.bigo.sg
 hotroom.live.bigo.sg
 support0.bigo.sg
 videosnap.esx.bigo.sg
-img.like.video
+img.likee.video
+api.likee.video
 api.imvu.com
 webasset-akm.imvu.com
 secure.imvu.com
