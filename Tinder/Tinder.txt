@@ -1,0 +1,6 @@
+tinder.com
+api.gotinder.com
+keepalive.gotinder.com
+preview.gotinder.com
+images-ssl.gotinder.com
+etl.tindersparks.com
