@@ -1,0 +1,5 @@
+cdn-client.whisper.sh
+whisper-misc.s3.amazonaws.com
+whisper.api.tigertext.me
+prod-android.whisper.sh
+prod.whisper.sh
