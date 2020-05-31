@@ -38,6 +38,7 @@ etl.tindersparks.com
 api.ask.fm
 mobilestats.ask.fm
 ask.fm
+home.kik.com
 engine.apikik.com
 api.kik.com
 kik.com
