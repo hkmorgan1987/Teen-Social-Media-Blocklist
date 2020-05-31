@@ -38,8 +38,10 @@ etl.tindersparks.com
 api.ask.fm
 mobilestats.ask.fm
 ask.fm
+engine.apikik.com
 api.kik.com
 kik.com
+profilepics.cf.kik.com
 ws.kik.com
 talk15250.an.kik.com
 one.voxer.com
