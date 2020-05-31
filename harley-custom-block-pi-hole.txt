@@ -44,7 +44,6 @@ api.kinmarketplace.com
 kinmarketplace.com
 bi.kinecosystembi.com
 kinecosystembi.com
-^talk
 home.kik.com
 engine.apikik.com
 api.kik.com
