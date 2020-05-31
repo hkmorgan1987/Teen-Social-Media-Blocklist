@@ -1,0 +1,6 @@
+nyc3-01-prod-worker-pool-9yf4.ms.thehousepartyapp.com
+api2-prod-alb.secrethouse.party
+turn-prod.ms.thehousepartyapp.com
+thehousepartyapp.com
+houseparty-client-assets.s3.amazonaws.com
+houseparty.com
