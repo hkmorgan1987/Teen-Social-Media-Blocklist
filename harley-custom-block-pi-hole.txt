@@ -17,6 +17,7 @@ img.like.video
 api.imvu.com
 webasset-akm.imvu.com
 secure.imvu.com
+tinder.com
 api.gotinder.com
 keepalive.gotinder.com
 preview.gotinder.com
